@@ -30,7 +30,7 @@ class GameEngine(private val board: Board = Board()) {
     private var combo = false
     private var levelPassed = false
     private var clearedLine = false
-    var tack: Long = 750
+    var tack: Long = 1000
     var reached = false
 
     init {

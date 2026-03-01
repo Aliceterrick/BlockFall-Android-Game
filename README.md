@@ -30,17 +30,11 @@ A modern falling blocks puzzle game for Android, built using Kotlin and Jetpack 
 
 ## Screenshots
 
-![mainmenu](screenshots/mainMenu.png)
-
-1. Main Menu
-
-![gamescreen](screenshots/gameScreen.png)
-
-2. Game Screen
-
-![gameoverscreen](screenshots/gameOverScreen.png)
-
-3. Game Over Screen
+<p float="left">
+  <img src="screenshots/mainMenu.png" width="200" />
+  <img src="screenshots/gameScreen.png" width="200" />
+  <img src="screenshots/gameOverScreen.png" width="200" />
+</p>
 
 ## Getting Started
 
